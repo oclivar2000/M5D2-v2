@@ -1,10 +1,9 @@
-.custom-btn {
-    background-color: #ff5733;
-    border-color: #ff5733;
+.btn-custom {
+    background-color: #4CAF50; /* Verde */
+    color: white;
   }
   
-  .custom-btn:hover {
-    background-color: #c70039;
-    border-color: #c70039;
+  .btn-custom:hover {
+    background-color: #a04559; /* rojo */
   }
   
