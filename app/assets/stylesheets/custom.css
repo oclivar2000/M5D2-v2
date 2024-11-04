@@ -1,9 +1,9 @@
 .btn-custom {
-    background-color: #4CAF50; /* Verde */
-    color: white;
+    background-color: #4CAF50 !important; /* Verde */
+    color: white !important;
   }
   
   .btn-custom:hover {
-    background-color: #a04559; /* rojo */
+    background-color: #a04559 !important; /* rojo */
   }
   
